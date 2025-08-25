@@ -2,6 +2,8 @@
       "name": "UX/Product Design Portfolio",
       "version": "0.1.0",
       "private": true,
+      "homepage": "https://kylecostanza14.github.io/portfolio",
+  // ...
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.12",
             "@radix-ui/react-alert-dialog": "^1.1.6",
